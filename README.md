@@ -52,14 +52,14 @@
 3. One type of loop is called a ‘For Loop’
 4. Loop a set number of times
   *inside the for loop*
-  1. int i = 0
-      Runs once before the code block is executed
-      Sets up the iterator
-  2. i < n
+  1. int i = 0 
+      1. Runs once before the code block is executed
+      2. Sets up the iterator
+  2. i < n 
       1. Defines the loop condition
       2. Tells the loop when to stop
       3. Be careful of infinite loops!
-  3. i++
+  3. i++ 
       1. Executes at the end of every loop
       2. Used to increment or decrement the iterator
 
