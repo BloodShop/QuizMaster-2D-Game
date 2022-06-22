@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 08b16f1682e267d42b41c250a9c0469b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fresh Steak
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6473308454b4dd4587fc4b3ef71e515, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
