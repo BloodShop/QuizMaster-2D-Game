@@ -14,6 +14,8 @@
 5. Scoring to show the player how well they did
 6. A way to restart the game when the quiz ends
 
+<img width="754" alt="img1" src="https://user-images.githubusercontent.com/23366804/175075438-fb6783ec-6a9d-463f-b5fe-1653018efdcc.png">
+
 # Game Design
 1. Player Experience: Knowledgeable / Intelligent
 2. Core Mechanic: Test your knowledge
@@ -41,6 +43,8 @@
     1. Question text
     2. Possible answers
     3. Correct answer
+
+<img width="754" alt="img2" src="https://user-images.githubusercontent.com/23366804/175075443-085803c0-7689-4558-a1ff-56701d249e72.png">
 
 # Getter Methods
 1. Gives a script read-only access to a private variable
@@ -78,6 +82,8 @@ Has the timer run down?
 
 Change the fill amount of the timer image
 When time runs out, change the state of the game
+
+<img width="754" alt="img3" src="https://user-images.githubusercontent.com/23366804/175075446-f54aff97-d3ef-4bed-a009-22bf31b8473b.png">
 
 # What is a List?
 - They’re kind of like arrays!
